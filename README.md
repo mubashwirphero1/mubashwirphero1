@@ -2,13 +2,18 @@
 #### I am a Web Developer
 ![I am a Web Developer](https://media-exp1.licdn.com/dms/image/C5603AQFIfcFhfwblaA/profile-displayphoto-shrink_200_200/0/1646022336303?e=1665014400&v=beta&t=QnSmuDnxaOi5pnljef19IqKlr_tkksXLynUNHABY0P0)
 
-Hello. I am Hasan Al Mubashwir. I'm a Junior Web Developer. I've done many projects before. Now I'm doing some of my projects. I've expertise as React Developer. I do any projects professionally. Also, I did Back-end tasks with Node.JS (Express.JS) for sever and MongoDB for the database. I didn't have any experience in Web Development.
+I am an energetic, ambitious person who has developed a mature and responsible approach to any
+task that I undertake, or situation that I am presented with. As a MERN-stack web developer, I try to
+accomplish all the tasks in a fixed amount of time depending on the task’s difficulty level. Although I
+have no job experience, I try to perform my duties efficiently. I have done many individual assignments
+and group tasks during my training and completed them successfully. I have the experience to
+manage my time besides studying and working on projects in a short time because I am a student
+now.
 
-Expertise: HTML, CSS, JavaScript, Typescript, React, React Router, React Native, Redux, Redux-Toolkit, React Redux, Data structure, Algorithm, OOP, Node.js, Express.js, MongoDB, Next.js, Firebase Authentication, Firebase Hosting, Stripe Payment Gateway, SSLcommerz Payment Gateway.
+Expertise: HTML, CSS, JavaScript, Typescript, React, React Router, React Native, Redux, Redux-Toolkit, React Redux, Node.js, Express.js, MongoDB, Firebase, Stripe Payment Gateway, SSLcommerz Payment Gateway, SCSS/Sass, Any CSS frameworks & React Front-end libraries
 
-Comfortable: React, CSS Frameworks, React UI Frameworks.
+Tools: GIT, Yarn, VS Code, Mozilla Firefox or Chrome, React Dev tool, Redux Dev tool, Mozilla or Chrome Dev tool.
 
-Tools: GIT, Yarn, VS Code, Mozilla Firefox or Chrome, React Dev tool, Mozilla or Chrome Dev tool.
 
 - 🌱 I’m currently learning JavaScript & Typescript 
 - 💬 Ask me about Web Development 
